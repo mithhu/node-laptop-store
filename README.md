@@ -8,7 +8,7 @@
     
 > Open this link  http://127.0.0.1:1337/ in the browser
 
-# Phone Store app using node js
+# Laptop Store app using node js
 
 ## What I learned
 
