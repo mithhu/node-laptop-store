@@ -1,6 +1,6 @@
 ## Demo
 
-> Run these the commands in terminal
+> Run these commands in terminal
 
     npm install nodemon -g
     
