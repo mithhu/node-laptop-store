@@ -1,4 +1,4 @@
-# Demo
+## Demo
 
 > Run these the commands in terminal
 
@@ -8,7 +8,7 @@
     
 > Open this link  http://127.0.0.1:1337/ in the browser
 
-# Laptop Store app using node js
+
 
 ## What I learned
 
